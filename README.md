@@ -1,4 +1,4 @@
-# Voice Assistant - Jarvis/Edith Style
+# Voice Assistant - Karen
 
 A voice assistant with extremely low latency designed to perform simple tasks like opening applications. Uses local LLM via Ollama for understanding and generating responses.
 
